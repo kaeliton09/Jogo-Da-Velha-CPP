@@ -1,12 +1,12 @@
-<h1 align="left">Jogo Da Velha em C++</h1>
+<h1 align="center">Jogo Da Velha em C++</h1>
 
 ###
 
-<p align="left">Projeto desenvolvido totalmente em C++, com o objetivo de testar conhecimentos básicos e trazer uma maneira rápida de jogar o jogo que está presente no meu dia-a-dia.</p>
+<p align="center">Projeto desenvolvido totalmente em C++, com o objetivo de testar conhecimentos básicos e trazer uma maneira rápida de jogar o jogo que está presente no meu dia-a-dia.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
 </div>
 
